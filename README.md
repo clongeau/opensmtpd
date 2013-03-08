@@ -1,3 +1,9 @@
+Repository moved
+================
+
+This repository moved to the [official OpenSMTPD github repository](https://github.com/poolpOrg/OpenSMTPD/tree/portable)
+
+
 Preliminary note
 ================
 
